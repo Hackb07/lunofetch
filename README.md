@@ -84,17 +84,16 @@ lunofetch
 
 ---
 
-##  Screenshots
+## 🖼️ Screenshots
 
-| Screenshot                               | Description                                         |
-| ---------------------------------------- | --------------------------------------------------- |
-| ![Screenshot 1](screenshots/screen1.png) | Default `lunofetch` output with embedded ASCII logo |
-| ![Screenshot 2](screenshots/screen2.png) | Custom logo example with `--logo mylogo.txt`        |
-| ![Screenshot 3](screenshots/screen3.png) | Output without colors (`--no-color`)                |
+| Screenshot | Description |
+|-------------|--------------|
+| ![Screenshot 1](screenshots/Screenshot%201.png) | Default `lunofetch` output with embedded ASCII logo |
+| ![Screenshot 2](screenshots/Screenshot%202.png) | Custom logo example with `--logo mylogo.txt` |
+| ![Screenshot 3](screenshots/Screenshot%203.png) | Output without colors (`--no-color`) |
 
 *(Ensure your screenshots are stored in a folder named `/screenshots` in your repository root.)*
 
----
 
 ##  How It Works
 
